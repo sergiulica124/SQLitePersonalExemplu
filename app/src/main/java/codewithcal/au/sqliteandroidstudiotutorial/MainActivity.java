@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity
 {
     private ListView noteListView;
     private String tudor;
+    private String arcadie;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
