@@ -11,6 +11,7 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity
 {
     private ListView noteListView;
+    private String tudor;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
