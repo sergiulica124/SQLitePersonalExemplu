@@ -14,6 +14,7 @@ import java.util.List;
 
 public class NoteAdapter extends ArrayAdapter<Note>
 {
+private String tugo;
     public NoteAdapter(Context context, List<Note> notes)
     {
         super(context, 0, notes);
