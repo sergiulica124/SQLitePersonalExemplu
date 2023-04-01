@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity
     private String adelina;
     private String nicoleta;
     private String alvania;
+    private String makena;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
