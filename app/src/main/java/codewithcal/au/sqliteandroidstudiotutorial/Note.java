@@ -12,7 +12,7 @@ public class Note
     private String title;
     private String description;
     private Date deleted;
-
+	private String tupoi;
     public Note(int id, String title, String description, Date deleted)
     {
         this.id = id;
